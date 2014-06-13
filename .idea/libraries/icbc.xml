@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="icbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JLCollege/libs/icbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

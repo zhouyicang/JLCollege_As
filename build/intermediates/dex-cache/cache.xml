@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\classes-b9e3add852df509b9dd3d1017dc0858c5d85cff1.jar"
+        jar="D:\ADreamofSpring\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\dom4j-1.6.1-74ef7f1140e1ab9369fee47fdc9c7cd41b2a4196.jar"
+        jar="D:\ADreamofSpring\JLCollege\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94"/>
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\additionnal-faeaf4ecef502ff22f7ac89ea04d099287deb5e3.jar"
+        jar="D:\ADreamofSpring\JLCollege\libs\additionnal.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4"/>
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\activation-cf276376c2a2ff9cb5ec8ec5242647a602334d8f.jar"
+        jar="D:\ADreamofSpring\JLCollege\libs\activation.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383"/>
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\support-v4-19.0.1-73d356f9bd1db46e73d714c233858db5b9d83e3d.jar"
+        jar="E:\adt-bundle-windows-x86_64-20130522\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\icbc-5cdd46a13c8dce92331b9c5706fde66e81bc8cfd.jar"
+        jar="D:\ADreamofSpring\JLCollege\libs\icbc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="77e94c0b2328078869e449f558723ce765cf09dc"/>
+    <item
+        dex="D:\ADreamofSpring\JLCollege\build\intermediates\pre-dexed\debug\mail-ed4c6ae4dd03e12526407d21d22623b67b7fc37a.jar"
+        jar="D:\ADreamofSpring\JLCollege\libs\mail.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160"/>
+
+</pre-dex-items>
